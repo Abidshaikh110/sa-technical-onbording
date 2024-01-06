@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://abidali110.github.io/sa-technical-onbording",
+  "homepage": "https://abidshaikh110.github.io/sa-technical-onbording",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://abidali110.github.io/sa-technical-onbording'",
+    "build-gh": "parcel build --public-url 'https://abidshaikh110.github.io/sa-technical-onbording'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
